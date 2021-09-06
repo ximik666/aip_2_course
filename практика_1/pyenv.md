@@ -84,7 +84,7 @@ python -m venv work_1
 
 После этого наше виртуальное окружение установлено.
 
-[***Практическое задание***](./practiсe.md)
+[***Практическое задание***](./практика_1/practiсe.md)
 
 [https://devpractice.ru/python-lesson-17-virtual-envs/](https://devpractice.ru/python-lesson-17-virtual-envs/)
 
