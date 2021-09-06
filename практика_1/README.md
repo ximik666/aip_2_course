@@ -70,7 +70,7 @@ pip list
 pip uninstall package-name
 ```
 
-[Далее](./pyenv.md)
+##### [**Далее**](./pyenv.md)
 
 [Базовые команды](https://otus.ru/journal/ustanovka-pip-na-python-3-bazovye-komandy/)
 
