@@ -73,6 +73,8 @@ pip uninstall package-name
 [Далее](./pyenv.md)
 
 [Базовые команды](https://otus.ru/journal/ustanovka-pip-na-python-3-bazovye-komandy/)
-[https://pypi.org]https://pypi.org
+
+[https://pypi.org](https://pypi.org)
+
 [Инструкция по установке более подробно](https://dataenginer.ru/?p=8348)
 
