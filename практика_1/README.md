@@ -70,9 +70,9 @@ pip list
 pip uninstall package-name
 ```
 
-[]: pyenv.md	"Далее"
+[Далее](./pyenv.md)
 
-[]: https://otus.ru/journal/ustanovka-pip-na-python-3-bazovye-komandy/	"про PIP"
-[]: https://pypi.org	"https://pypi.org"
-[]: https://dataenginer.ru/?p=8348	"Инструкция по установке более подробно"
+[Базовые команды](https://otus.ru/journal/ustanovka-pip-na-python-3-bazovye-komandy/)
+[https://pypi.org]https://pypi.org
+[Инструкция по установке более подробно](https://dataenginer.ru/?p=8348)
 
