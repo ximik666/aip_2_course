@@ -10,7 +10,7 @@ pip show pandas
 
 Мы увидим следующее:
 
-![](.\image\2021-09-06_10-37-03.png)
+![](./image/2021-09-06_10-37-03.png)
 
 Библиотека установлена по пути `c:\users\win-server\appdata\local\programs\python\python38\lib\site-packages`
 
@@ -84,7 +84,7 @@ python -m venv work_1
 
 После этого наше виртуальное окружение установлено.
 
-[***Практическое задание***](.\practiсe.md)
+[***Практическое задание***](./practiсe.md)
 
 [https://devpractice.ru/python-lesson-17-virtual-envs/](https://devpractice.ru/python-lesson-17-virtual-envs/)
 
